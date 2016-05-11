@@ -1,0 +1,1 @@
+javac BinarySearch.java
